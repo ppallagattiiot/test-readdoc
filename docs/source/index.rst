@@ -1,19 +1,5 @@
-Welcome to Lumache's documentation! hi
-===================================
-
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+A "How to" Guide for Sphinx + ReadTheDocs
+This document aims to describe a standard way of creating a Python package, which can be documented using Sphinx and then consequently published to ReadTheDocs, so that it’s made available to whoever needs to read it.
 
 .. toctree::
    :maxdepth: 2
