@@ -9,6 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=source
 set BUILDDIR=build
+et SPHINXPROJ=test-readdoc
 
 if "%1" == "" goto help
 
