@@ -6,6 +6,7 @@ This document aims to describe a standard way of creating a Python package, whic
    :caption: Contents:
    usage
    api
+   test
    pruthvi
 
 Indices and tables
